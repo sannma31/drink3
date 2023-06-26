@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "648A56A4-A591-4A50-BB07-DF57A8B03888"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A384156-3835-491C-A9BF-320649A867C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "drink/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "9A384156-3835-491C-A9BF-320649A867C1 - 35e9ee72f8e96ad4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of drink.ContentView.orders : Swift.Array&lt;drink.Order&gt;"
+                  moduleName = "drink"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dosumakkao/Desktop/Practice/drink/drink/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "9A384156-3835-491C-A9BF-320649A867C1 - fb90f072c7cc7cba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "drink.ContentView.orders.getter : Swift.Array&lt;drink.Order&gt;"
+                  moduleName = "drink"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dosumakkao/Desktop/Practice/drink/drink/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "9A384156-3835-491C-A9BF-320649A867C1 - fc8204a58e8afc8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "drink.ContentView.orders.setter : Swift.Array&lt;drink.Order&gt;"
+                  moduleName = "drink"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dosumakkao/Desktop/Practice/drink/drink/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "9A384156-3835-491C-A9BF-320649A867C1 - bbd31a508a818cbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "drink.ContentView.orders.modify : Swift.Array&lt;drink.Order&gt;"
+                  moduleName = "drink"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dosumakkao/Desktop/Practice/drink/drink/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "9A384156-3835-491C-A9BF-320649A867C1 - 7d78e3ddd604268e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "drink.ContentView.orders.modify : Swift.Array&lt;drink.Order&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "drink"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dosumakkao/Desktop/Practice/drink/drink/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "9A384156-3835-491C-A9BF-320649A867C1 - 89e562da48572a46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "drink.ContentView.$orders.getter : SwiftUI.Binding&lt;Swift.Array&lt;drink.Order&gt;&gt;"
+                  moduleName = "drink"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dosumakkao/Desktop/Practice/drink/drink/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "9A384156-3835-491C-A9BF-320649A867C1 - cf63bb624667bfe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "drink.ContentView.init() -&gt; drink.ContentView"
+                  moduleName = "drink"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dosumakkao/Desktop/Practice/drink/drink/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
